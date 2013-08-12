@@ -33,7 +33,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#444;
   font-weight:400;
   text-decoration:none;
 }
@@ -256,6 +256,6 @@ footer {
 
 .icons {
   margin-top: 10px;
-  padding: 10px;
+  /* padding: 10px;*/
   text-align: justify;
 }

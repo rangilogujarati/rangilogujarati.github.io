@@ -253,3 +253,9 @@ footer {
     color:#444;
   }
 }
+
+.icons {
+  margin-top: 10px;
+  padding: 10px;
+  text-align: justify;
+}
